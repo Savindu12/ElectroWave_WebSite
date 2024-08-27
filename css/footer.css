@@ -1,0 +1,15 @@
+footer {
+    background: linear-gradient(90deg, rgba(29, 53, 87, 1) 0%, rgba(69, 123, 157, 1) 100%);
+    color: #f4f4f4;
+    flex-shrink: 0;
+}
+
+footer p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+footer .text-center {
+    font-size: 0.9rem;
+    margin-top: 20px;
+}
